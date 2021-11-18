@@ -10,6 +10,6 @@ With the rise of the Indian Premier League in 2008, cricket became a worldwide p
 
 ### ATLA Analysis 	:fire: :droplet: :tornado: :bricks:
 “Avatar: The Last Air Bender” is one of the best-animated shows that I’ve ever seen. The avatar dataset on Kaggle was the best place to start experimenting on sentiment analysis. The real reason that I chose this dataset is to find out if “Honor” was the most said word by Zuko and for the memes obviously.  :wink: The dataset had all the dialogues spoken across all the 3 books. Some of it also included scene descriptions that had to be removed. So after a bit of preprocessing the dataset had about 9k rows.
-Reas the full blog and results [here](https://vaishnavi-23.medium.com/avatar-the-last-air-bender-data-analysis-902d19c8964b).
+Read the full blog and results [here](https://vaishnavi-23.medium.com/avatar-the-last-air-bender-data-analysis-902d19c8964b).
 
 
