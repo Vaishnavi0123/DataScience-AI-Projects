@@ -4,7 +4,7 @@ Data Science projects done using Python and Jupyter notebooks
 ### IPL Data Analysis :cricket_game:
 With the rise of the Indian Premier League in 2008, cricket became a worldwide phenomenon as it continued to receive millions in viewership. As of 2019, the IPL has been valued at $6.7 billion. With so much at stake and every ball under scrutiny, technology is being used extensively to make the players plan and play better. This project was to analyze this large scale unstructured data and extract some useful information and solutions for the team management to identify the top players and assess the performances of the players and make the right choices in the upcoming seasons. 
 
-Tableau Visualization : https://public.tableau.com/app/profile/vaishnavi.suresh.krishnan/viz/IPL_Visualisations_16372640610630
+Tableau Visualization : https://public.tableau.com/app/profile/vaishnavi.suresh.krishnan/viz/IPL_Visualisations_16372640610630/PerformanceofBatsman
 
 Interactive map visualization done using python and R : https://rpubs.com/Vaishnavi_23/820196
 
