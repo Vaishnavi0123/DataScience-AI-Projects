@@ -1,6 +1,0 @@
-Pac-Man is a retro game that involves a maze-like environment where a yellow, pie-shaped
-Pac-Man character, travels around the maze trying to eat dots and while avoiding four hunting
-ghosts. The maze-like environment makes it possible to test the various search algorithms while
-defining a winning condition. Thus in our project, we aim to compare various informed and
-uninformed search algorithms and compare their performances on various maze sizes and also
-study how various heuristic functions affect the performance of a search algorithm.
