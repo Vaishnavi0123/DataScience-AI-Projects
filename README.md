@@ -1,4 +1,4 @@
-# Data Science Projects :card_index_dividers: :woman_technologist: :bar_chart:
+# Data Science & AI Projects :card_index_dividers: :woman_technologist: :bar_chart:
 Data Science projects done using Python and Jupyter notebooks
 
 ### IPL Data Analysis :cricket_game:
